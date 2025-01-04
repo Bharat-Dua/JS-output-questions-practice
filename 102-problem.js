@@ -1,0 +1,1 @@
+console.log(typeof x) // 'undefined' bcoz typeof is the only operator that can return 'undefined' in JavaScript if the variable is not declared.
